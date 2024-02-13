@@ -15,7 +15,7 @@
   transition: all 300ms ease;
 }
 
-.chatbot-btn:hover{
+.chatbot-btn:hover, .chatbot-btn:focus{
   text-decoration: none;
   color: #d0b200;
   background: transparent;
